@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="784" height="544" viewBox="0 0 784 544" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="14px">
+<svg xmlns="http://www.w3.org/2000/svg" width="695" height="544" viewBox="0 0 695 544" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="14px">
 <style>
   text { white-space: pre; }
-  text.a { font-size: 10.0px; }
+  text.a { font-size: 7.0px; }
   .bg  { fill: #f6f8fa; stroke: #d0d7de; }
   .art { fill: #8250df; }
   .acc { fill: #0969da; font-weight: bold; }
@@ -19,52 +19,52 @@
     .dim { fill: #6e7681; }
   }
 </style>
-<rect class="bg" x="0.5" y="0.5" width="783" height="543" rx="10"/>
-<text class="a" x="20" y="100.5"><tspan class="art">                    l1tli</tspan></text>
-<text class="a" x="20" y="113.5"><tspan class="art">                 lnujttt</tspan></text>
-<text class="a" x="20" y="126.5"><tspan class="art">                Cv1vOboMokpZJx   i               </tspan></text>
-<text x="344.0" y="70"><tspan class="acc">andy</tspan><tspan class="dim">@</tspan><tspan class="acc">nguyen</tspan> <tspan class="dim">--------------------------------------</tspan></text>
-<text class="a" x="20" y="139.5"><tspan class="art">               YxOM@@B8B@@@@BamOf j              </tspan></text>
-<text x="344.0" y="88"><tspan class="dim">. </tspan><tspan class="key">Role:</tspan> <tspan class="dim">.........................</tspan> <tspan class="val">BI &amp; AI Engineer</tspan></text>
-<text class="a" x="20" y="152.5"><tspan class="art">              cxd@B%&amp;%%BBBBB@o00Ozix             </tspan></text>
-<text x="344.0" y="106"><tspan class="dim">. </tspan><tspan class="key">Company:</tspan> <tspan class="dim">......................</tspan> <tspan class="val">OCNZ Venture Ltd</tspan></text>
-<text class="a" x="20" y="165.5"><tspan class="art">              vk@%%8WMM%@@@@&amp;bLCCOc1             </tspan></text>
-<text x="344.0" y="124"><tspan class="dim">. </tspan><tspan class="key">Location:</tspan> <tspan class="dim">................</tspan> <tspan class="val">Auckland, New Zealand</tspan></text>
-<text class="a" x="20" y="178.5"><tspan class="art">              zaaMMM#dZQLhQZmJXcunjt             </tspan></text>
-<text x="344.0" y="142"><tspan class="dim">. </tspan><tspan class="key">Experience:</tspan> <tspan class="dim">..............</tspan> <tspan class="val">10+ years in Power BI</tspan></text>
-<text class="a" x="20" y="191.5"><tspan class="art">            1YLJQk&amp;WC1  lCin0X1    nx</tspan></text>
-<text class="a" x="20" y="204.5"><tspan class="art">            m88%@mxx   lQ8Ml      0QJQ           </tspan></text>
-<text x="344.0" y="178"><tspan class="dim">. </tspan><tspan class="key">Expertise:</tspan> <tspan class="dim">............</tspan> <tspan class="val">BI, Data Engineering, AI</tspan></text>
-<text class="a" x="20" y="217.5"><tspan class="art">            lWW%B&amp;d0YvLkh&amp;kXxinuvLqcmJ           </tspan></text>
-<text x="344.0" y="196"><tspan class="dim">. </tspan><tspan class="key">Focus:</tspan> <tspan class="dim">........</tspan> <tspan class="val">Power BI, Fabric, Data Modelling</tspan></text>
-<text class="a" x="20" y="230.5"><tspan class="art">             jkMB%@@@@@%*8pCQpB@aOZwJ            </tspan></text>
-<text x="344.0" y="214"><tspan class="dim">.</tspan>                        <tspan class="val">AI Workflows &amp; Automation</tspan></text>
-<text class="a" x="20" y="243.5"><tspan class="art">                dB&amp;88*k#W#o0cpMkQZz</tspan></text>
-<text class="a" x="20" y="256.5"><tspan class="art">                x&amp;%%8M#W&amp;#WpC*&amp;qmQ               </tspan></text>
-<text x="344.0" y="250"><tspan class="dim">. </tspan><tspan class="key">Languages.Code:</tspan> <tspan class="dim">...</tspan> <tspan class="val">SQL, Python, DAX, JavaScript</tspan></text>
-<text class="a" x="20" y="269.5"><tspan class="art">              1ZYOBMW%B@@@@8hbCYui               </tspan></text>
-<text x="344.0" y="268"><tspan class="dim">.</tspan>                           <tspan class="val">TypeScript, React, PHP</tspan></text>
-<text class="a" x="20" y="282.5"><tspan class="art">            1b&amp;dlv@&amp;#*kpm0Cvjl cJ  l             </tspan></text>
-<text x="344.0" y="286"><tspan class="dim">. </tspan><tspan class="key">Languages.Query:</tspan> <tspan class="dim">.......</tspan> <tspan class="val">Power Query M, HANA SQL</tspan></text>
-<text class="a" x="20" y="295.5"><tspan class="art">          jqBBbCiY@%B%WkQXx  1Xm0   X            </tspan></text>
-<text x="344.0" y="304"><tspan class="dim">. </tspan><tspan class="key">Tools.BI:</tspan> <tspan class="dim">...........</tspan> <tspan class="val">DAX Studio, Tabular Editor</tspan></text>
-<text class="a" x="20" y="308.5"><tspan class="art">         O@@8abr M@%8&amp;&amp;%@@BZX0Oqp1 pB8r          </tspan></text>
-<text x="344.0" y="322"><tspan class="dim">. </tspan><tspan class="key">Tools.Cloud:</tspan> <tspan class="dim">.......</tspan> <tspan class="val">Azure, Fabric, Data Factory</tspan></text>
-<text class="a" x="20" y="321.5"><tspan class="art">     fXO&amp;@@B#qqj zhM%B@@@@@aqkmzt  x&amp;Bori1l      </tspan></text>
-<text x="344.0" y="340"><tspan class="dim">. </tspan><tspan class="key">Tools.Dev:</tspan> <tspan class="dim">............</tspan> <tspan class="val">Git, VS Code, Power Apps</tspan></text>
-<text class="a" x="20" y="334.5"><tspan class="art">  zw#&amp;d&amp;@B8Wd0c   fuzZmwpdpLcf      8Z nitzzu1</tspan></text>
-<text class="a" x="20" y="347.5"><tspan class="art">0%@@*qmOq&amp;8kLflJt                 x&amp;J  u tnzCm   </tspan></text>
-<text x="344.0" y="376"><tspan class="dim">- </tspan><tspan class="hdr">Contact</tspan><tspan class="dim"> ----------------------------------------</tspan></text>
-<text class="a" x="20" y="360.5"><tspan class="art">m@@Mmd*wCCpZuQokX                 bt  ti1YXcYL   </tspan></text>
-<text x="344.0" y="394"><tspan class="dim">. </tspan><tspan class="key">GitHub:</tspan> <tspan class="dim">....................</tspan> <tspan class="val">github.com/andyocnz</tspan></text>
-<text class="a" x="20" y="373.5"><tspan class="art">0@MZaB8qZobLwwmZZt               cxtvcJZLQJvZO</tspan></text>
-<text class="a" x="20" y="386.5"><tspan class="art">LBmdBB&amp;QOWoqW0jJXJ               vYoZCOZOcCvQL   </tspan></text>
-<text x="344.0" y="430"><tspan class="dim">- </tspan><tspan class="hdr">GitHub Stats</tspan><tspan class="dim"> -----------------------------------</tspan></text>
-<text class="a" x="20" y="399.5"><tspan class="art">JoXaadQXqMbmopXC00                paOvOwwcnXXY   </tspan></text>
-<text x="344.0" y="448"><tspan class="dim">. </tspan><tspan class="key">Repos:</tspan><tspan class="val"> </tspan><tspan class="dim">...</tspan><tspan class="val"> 58  </tspan><tspan class="dim">|</tspan><tspan class="val">  </tspan><tspan class="key">Stars:</tspan><tspan class="val"> </tspan><tspan class="dim">...</tspan><tspan class="val"> 32  </tspan><tspan class="dim">|</tspan><tspan class="val">  </tspan><tspan class="key">Since:</tspan><tspan class="val"> 2018</tspan></text>
-<text class="a" x="20" y="412.5"><tspan class="art">XpukadLhWWbObpY1wYj               vhw1YOYYnccr</tspan></text>
-<text class="a" x="20" y="425.5"><tspan class="art">YptOqZbaoMpOZZwjrZz                qqi1OCzuri    </tspan></text>
-<text x="344.0" y="484"><tspan class="acc">                        Build • Analyse • Innovate</tspan></text>
-<text class="a" x="20" y="438.5"><tspan class="art">X0tQdaoa*WCZOqwm1uX                xwujLxli</tspan></text>
-<text class="a" x="20" y="451.5"><tspan class="art"> 1 1xnxrfftjfrjrt r                 ft l</tspan></text>
+<rect class="bg" x="0.5" y="0.5" width="694" height="543" rx="10"/>
+<text class="a" x="20" y="152.0"><tspan class="art">                    l1tli</tspan></text>
+<text class="a" x="20" y="161.1"><tspan class="art">                 lnujttt</tspan></text>
+<text class="a" x="20" y="170.2"><tspan class="art">                Cv1vOboMokpZJx   i               </tspan></text>
+<text x="255.8" y="70"><tspan class="acc">andy</tspan><tspan class="dim">@</tspan><tspan class="acc">nguyen</tspan> <tspan class="dim">--------------------------------------</tspan></text>
+<text class="a" x="20" y="179.3"><tspan class="art">               YxOM@@B8B@@@@BamOf j              </tspan></text>
+<text x="255.8" y="88"><tspan class="dim">. </tspan><tspan class="key">Role:</tspan> <tspan class="dim">.........................</tspan> <tspan class="val">BI &amp; AI Engineer</tspan></text>
+<text class="a" x="20" y="188.4"><tspan class="art">              cxd@B%&amp;%%BBBBB@o00Ozix             </tspan></text>
+<text x="255.8" y="106"><tspan class="dim">. </tspan><tspan class="key">Company:</tspan> <tspan class="dim">......................</tspan> <tspan class="val">OCNZ Venture Ltd</tspan></text>
+<text class="a" x="20" y="197.5"><tspan class="art">              vk@%%8WMM%@@@@&amp;bLCCOc1             </tspan></text>
+<text x="255.8" y="124"><tspan class="dim">. </tspan><tspan class="key">Location:</tspan> <tspan class="dim">................</tspan> <tspan class="val">Auckland, New Zealand</tspan></text>
+<text class="a" x="20" y="206.6"><tspan class="art">              zaaMMM#dZQLhQZmJXcunjt             </tspan></text>
+<text x="255.8" y="142"><tspan class="dim">. </tspan><tspan class="key">Experience:</tspan> <tspan class="dim">..............</tspan> <tspan class="val">10+ years in Power BI</tspan></text>
+<text class="a" x="20" y="215.7"><tspan class="art">            1YLJQk&amp;WC1  lCin0X1    nx</tspan></text>
+<text class="a" x="20" y="224.8"><tspan class="art">            m88%@mxx   lQ8Ml      0QJQ           </tspan></text>
+<text x="255.8" y="178"><tspan class="dim">. </tspan><tspan class="key">Expertise:</tspan> <tspan class="dim">............</tspan> <tspan class="val">BI, Data Engineering, AI</tspan></text>
+<text class="a" x="20" y="233.9"><tspan class="art">            lWW%B&amp;d0YvLkh&amp;kXxinuvLqcmJ           </tspan></text>
+<text x="255.8" y="196"><tspan class="dim">. </tspan><tspan class="key">Focus:</tspan> <tspan class="dim">........</tspan> <tspan class="val">Power BI, Fabric, Data Modelling</tspan></text>
+<text class="a" x="20" y="243.0"><tspan class="art">             jkMB%@@@@@%*8pCQpB@aOZwJ            </tspan></text>
+<text x="255.8" y="214"><tspan class="dim">.</tspan>                        <tspan class="val">AI Workflows &amp; Automation</tspan></text>
+<text class="a" x="20" y="252.1"><tspan class="art">                dB&amp;88*k#W#o0cpMkQZz</tspan></text>
+<text class="a" x="20" y="261.2"><tspan class="art">                x&amp;%%8M#W&amp;#WpC*&amp;qmQ               </tspan></text>
+<text x="255.8" y="250"><tspan class="dim">. </tspan><tspan class="key">Languages.Code:</tspan> <tspan class="dim">...</tspan> <tspan class="val">SQL, Python, DAX, JavaScript</tspan></text>
+<text class="a" x="20" y="270.2"><tspan class="art">              1ZYOBMW%B@@@@8hbCYui               </tspan></text>
+<text x="255.8" y="268"><tspan class="dim">.</tspan>                           <tspan class="val">TypeScript, React, PHP</tspan></text>
+<text class="a" x="20" y="279.4"><tspan class="art">            1b&amp;dlv@&amp;#*kpm0Cvjl cJ  l             </tspan></text>
+<text x="255.8" y="286"><tspan class="dim">. </tspan><tspan class="key">Languages.Query:</tspan> <tspan class="dim">.......</tspan> <tspan class="val">Power Query M, HANA SQL</tspan></text>
+<text class="a" x="20" y="288.5"><tspan class="art">          jqBBbCiY@%B%WkQXx  1Xm0   X            </tspan></text>
+<text x="255.8" y="304"><tspan class="dim">. </tspan><tspan class="key">Tools.BI:</tspan> <tspan class="dim">...........</tspan> <tspan class="val">DAX Studio, Tabular Editor</tspan></text>
+<text class="a" x="20" y="297.6"><tspan class="art">         O@@8abr M@%8&amp;&amp;%@@BZX0Oqp1 pB8r          </tspan></text>
+<text x="255.8" y="322"><tspan class="dim">. </tspan><tspan class="key">Tools.Cloud:</tspan> <tspan class="dim">.......</tspan> <tspan class="val">Azure, Fabric, Data Factory</tspan></text>
+<text class="a" x="20" y="306.6"><tspan class="art">     fXO&amp;@@B#qqj zhM%B@@@@@aqkmzt  x&amp;Bori1l      </tspan></text>
+<text x="255.8" y="340"><tspan class="dim">. </tspan><tspan class="key">Tools.Dev:</tspan> <tspan class="dim">............</tspan> <tspan class="val">Git, VS Code, Power Apps</tspan></text>
+<text class="a" x="20" y="315.8"><tspan class="art">  zw#&amp;d&amp;@B8Wd0c   fuzZmwpdpLcf      8Z nitzzu1</tspan></text>
+<text class="a" x="20" y="324.9"><tspan class="art">0%@@*qmOq&amp;8kLflJt                 x&amp;J  u tnzCm   </tspan></text>
+<text x="255.8" y="376"><tspan class="dim">- </tspan><tspan class="hdr">Contact</tspan><tspan class="dim"> ----------------------------------------</tspan></text>
+<text class="a" x="20" y="334.0"><tspan class="art">m@@Mmd*wCCpZuQokX                 bt  ti1YXcYL   </tspan></text>
+<text x="255.8" y="394"><tspan class="dim">. </tspan><tspan class="key">GitHub:</tspan> <tspan class="dim">....................</tspan> <tspan class="val">github.com/andyocnz</tspan></text>
+<text class="a" x="20" y="343.1"><tspan class="art">0@MZaB8qZobLwwmZZt               cxtvcJZLQJvZO</tspan></text>
+<text class="a" x="20" y="352.1"><tspan class="art">LBmdBB&amp;QOWoqW0jJXJ               vYoZCOZOcCvQL   </tspan></text>
+<text x="255.8" y="430"><tspan class="dim">- </tspan><tspan class="hdr">GitHub Stats</tspan><tspan class="dim"> -----------------------------------</tspan></text>
+<text class="a" x="20" y="361.2"><tspan class="art">JoXaadQXqMbmopXC00                paOvOwwcnXXY   </tspan></text>
+<text x="255.8" y="448"><tspan class="dim">. </tspan><tspan class="key">Repos:</tspan><tspan class="val"> </tspan><tspan class="dim">...</tspan><tspan class="val"> 58  </tspan><tspan class="dim">|</tspan><tspan class="val">  </tspan><tspan class="key">Stars:</tspan><tspan class="val"> </tspan><tspan class="dim">...</tspan><tspan class="val"> 32  </tspan><tspan class="dim">|</tspan><tspan class="val">  </tspan><tspan class="key">Since:</tspan><tspan class="val"> 2018</tspan></text>
+<text class="a" x="20" y="370.4"><tspan class="art">XpukadLhWWbObpY1wYj               vhw1YOYYnccr</tspan></text>
+<text class="a" x="20" y="379.5"><tspan class="art">YptOqZbaoMpOZZwjrZz                qqi1OCzuri    </tspan></text>
+<text x="255.8" y="484"><tspan class="acc">                        Build • Analyse • Innovate</tspan></text>
+<text class="a" x="20" y="388.6"><tspan class="art">X0tQdaoa*WCZOqwm1uX                xwujLxli</tspan></text>
+<text class="a" x="20" y="397.6"><tspan class="art"> 1 1xnxrfftjfrjrt r                 ft l</tspan></text>
 </svg>
